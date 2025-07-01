@@ -1,5 +1,5 @@
 #EXCEL SALES DATA PROJECT
-THIS repositary contain an excel file showing sample sales data with appilied **CONTINAL FORMATTING**.
+THIS repositary contain an excel file showing sample sales data with appilied **CONDITIONAL FORMATTING**.
 ##PROJECT DETAILS:
 -**COLOUMS:** DATA, REGION,PRICE,PRODUCT
 -**FEATURED USED:**
