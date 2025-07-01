@@ -8,4 +8,4 @@ THIS repositary contain an excel file showing sample sales data with appilied **
 ##PURPOSE:
 TO demonstrate excel data management and visulization technique.
 ## file included;
-sales data with continal formatting
+sales data with conditional formatting
